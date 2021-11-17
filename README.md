@@ -1,6 +1,14 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+A mini amazon clone, e-commerce application built with Rails 4.2 for purposes of learning Rails by example.
+
+## Screenshots
+
+!["The products index page"](https://github.com/ParrisG/jungle-rails/blob/master/docs/Jungle%20-%20Product%20Index.png?raw=true)
+
+!["The Admin Product Access"](https://github.com/ParrisG/jungle-rails/blob/master/docs/Jungle%20-%20Admin%20Product%20Access.png?raw=true)
+
+
 
 ## Additional Steps for Apple M1 Machines
 
